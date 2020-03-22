@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="647524e8-64c4-4533-9f0a-2aaf2a784690" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections_00/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections_00/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections_00/com/company/Theatre$Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections_00/com/company/Theatre$Seat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections_00/com/company/Theatre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections_00/com/company/Theatre.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Theatre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584873863017</updated>
       <workItem from="1584873866372" duration="5176000" />
-      <workItem from="1584882504140" duration="1651000" />
+      <workItem from="1584882504140" duration="2176000" />
     </task>
     <servers />
   </component>
